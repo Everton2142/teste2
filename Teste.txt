@@ -1,0 +1,1 @@
+Arquivo para observação de como o repositório se comportará após a adição de um arquivo.
